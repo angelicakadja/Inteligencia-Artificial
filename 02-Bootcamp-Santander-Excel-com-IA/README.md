@@ -14,8 +14,7 @@
 
 > #### 🎓 Sobre o Bootcamp
 
-    Este bootcamp, oferece uma jornada completa para aprender Excel do zero, entendendo as principais fórmulas e dominando as principais práticas do mercado para tratar e exibir dados em relatórios com eficiência com apoio da IA.
-
+> Este bootcamp oferece uma jornada completa para aprender Excel do zero, entendendo as principais fórmulas e dominando as melhores práticas do mercado para tratar e exibir dados em relatórios com eficiência, com o apoio da IA.
 ---
 
 > #### 🎯 Principais Tópicos Abordados
