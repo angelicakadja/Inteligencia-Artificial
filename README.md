@@ -6,7 +6,7 @@
 
 <br/>
 
-<img width="300" align="center" src="../Inteligencia-Artificial/img/ia-gemini.png">
+<img width="400" src="./img/Gemini_IA.jpg">
 
 <br/>
 
